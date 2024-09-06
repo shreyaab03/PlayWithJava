@@ -1,2 +1,2 @@
 # PlayWithJava
-A personal collection of Java projects created as part of my journey to learn Java. This repository showcases my experiments, mini-games, and projects as I explore Java programming. Feel free to explore, try out the code, and see what I’m working on!
+This repository is my playground for learning Java. It contains various projects, from simple games to coding experiments, as I dive into Java programming. I’m sharing my progress here—not as a teaching resource, but as a way to document my journey and maybe inspire others who are also learning. Contributions and feedback are welcome, but the primary goal is my personal learning and growth.
